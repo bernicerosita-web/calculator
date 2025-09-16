@@ -1,0 +1,67 @@
+input{width:136px; }
+button {
+    border-radius:50%;
+    font-size:29px;
+    width: 53px;
+    height:53px;
+}
+
+ button:hover {background-color : rgba(209, 150, 185, 0.886);}
+body 
+{ 
+    background-image: url('lilac-background-qnkdpksishgn5ey6.jpg');
+    background-size: cover;   
+}
+
+.cal
+    {margin-top: 300px;
+    margin-left: 680px;
+    width: 325px;
+    height: 460px;
+    border: solid rgb(16, 15, 15);
+    border-radius:20px;
+    background-color:rgb(141, 76, 115);
+    padding:10px;
+    }
+
+
+    .tab{
+    width:220px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    }
+
+    button{
+        /* position: relative; */
+        margin-left: 10px;
+        margin-right: 5px;
+        margin-top: 11px;
+        margin-bottom: 2px;
+    }
+    
+
+#box{
+    height:53px;
+    width: 260px;
+    margin-left:26px;
+    margin-top:20px;
+    border-radius:23px;
+    padding-right:10px;
+    text-align: right;  
+    font-size: 29px; 
+}
+
+.r button {
+    background-color: rgb(236, 188, 236);
+}
+
+.r button:hover 
+{background-color : rgb(209, 150, 185);}
+
+
+
+
+
+
+
+
